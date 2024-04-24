@@ -1,0 +1,7 @@
+hai 
+hello world
+System
+out
+println
+kjabCJK
+dahabc 

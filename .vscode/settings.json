@@ -1,0 +1,10 @@
+{
+    "java.jdt.ls.java.home": "/usr/lib/jvm/java-17-openjdk-amd64",
+    "java.import.generatesMetadataFilesAtProjectRoot": false,
+    "files.exclude": {
+        "**/.project": true,
+        "**/.classpath": true,
+        "**/.factorypath": true,
+        "**/.settings": true
+    }
+}
